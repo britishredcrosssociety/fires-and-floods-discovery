@@ -1,4 +1,4 @@
-# fires-and-floods-discovery
+# Fires and floods discovery
 
 Needs map for discovery work into fires and floods
 
